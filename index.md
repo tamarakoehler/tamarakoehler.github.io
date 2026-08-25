@@ -33,7 +33,7 @@ You can find my full CV [here](https://drive.google.com/file/d/139MFONkrQnZ0U3GP
 
 When I'm not doing any of the above, I enjoy traveling, trying new sports (most recently road biking and swimming), and reading — novels, not papers.
 
-If we share interests, want to talk about any of this, connect, or just because — please feel free to reach out!
+If we share interests or you just want to connect, please feel free to reach out!
 
 ## Publications
 
