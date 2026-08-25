@@ -2,7 +2,7 @@
 
 <div style="flex: 0 0 220px;" markdown="1">
 
-<img src="assets/YOUR-PHOTO.jpg" alt="Tamara Köhler" style="width: 100%; border-radius: 6px; margin-bottom: 15px;">
+<img src="assets/photo.jpg" alt="Tamara Köhler" style="width: 100%; border-radius: 6px; margin-bottom: 15px;">
 
 **Tamara Köhler**
 
