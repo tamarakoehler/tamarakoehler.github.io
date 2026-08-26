@@ -31,7 +31,7 @@ As a first-generation student myself, I am invested in mentoring. Through my fel
 
 You can find my full CV [here](https://drive.google.com/file/d/139MFONkrQnZ0U3GPfTKHDO45eG_qOtKs/view?usp=sharing).
 
-When I'm not doing any of the above, I enjoy traveling, trying new sports (most recently road biking and swimming), and reading — novels, not papers.
+When I'm not doing any of the above, I enjoy traveling, trying new sports (most recently road biking and swimming), and reading. 
 
 If we share interests or you just want to connect, please feel free to reach out!
 
