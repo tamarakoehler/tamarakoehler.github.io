@@ -43,7 +43,7 @@ Papada, E., Altman, D., Angiolillo, F., Gastaldi, L., **Köhler, T.,** Lundstedt
 
 **Working Papers**
 
-Changing Boundaries: Harmonizing Territorial Data for Comparative Subnational Research (with Iuliya Rodionova, Victor Saidi Phiri, Rafael Lopez Valverde, Aksel Sundström and Marina Nistotskaya) (under review, preprint available [here](https://www.gu.se/sites/default/files/2026-05/2026_4_Rodionova%20et%20al..pdf))
+*Changing Boundaries: Harmonizing Territorial Data for Comparative Subnational Research* (with Iuliya Rodionova, Victor Saidi Phiri, Rafael Lopez Valverde, Aksel Sundström and Marina Nistotskaya) (under review, preprint available [here](https://www.gu.se/sites/default/files/2026-05/2026_4_Rodionova%20et%20al..pdf))
 
 </div>
 
