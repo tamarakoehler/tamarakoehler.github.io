@@ -1,3 +1,7 @@
+<style>
+.site-header a[href*="github.com"] { display: none; }
+</style>
+
 <div style="display: flex; gap: 40px; flex-wrap: wrap;" markdown="1">
 
 <div style="flex: 0 0 220px;" markdown="1">
