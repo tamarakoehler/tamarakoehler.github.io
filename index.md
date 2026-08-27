@@ -15,6 +15,12 @@ European University Institute
 Via della Badia dei Roccettini, 9
 50014 Fiesole FI, Italy
 
+<div style="margin-top: 15px;">
+
+<a href="https://orcid.org/0009-0004-3605-4032" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/orcid.svg" alt="ORCID" width="20" style="vertical-align: middle; margin-right: 10px;"></a><a href="https://www.linkedin.com/in/tamarakoehler" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" alt="LinkedIn" width="20" style="vertical-align: middle;"></a>
+
+</div>
+
 </div>
 
 <div style="flex: 1; min-width: 300px;" markdown="1">
