@@ -12,7 +12,7 @@ European University Institute
 
 [tamara.kohler@eui.eu](mailto:tamara.kohler@eui.eu)
 
-Via della Badia dei Roccettini, 9
+Visiting Address: Via della Badia dei Roccettini, 9
 50014 Fiesole FI, Italy
 
 <div style="margin-top: 15px;">
