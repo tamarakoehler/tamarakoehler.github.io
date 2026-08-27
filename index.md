@@ -1,3 +1,5 @@
+<meta name="google-site-verification" content="x_MDiIKq2vRrlzJcsh6qbbEn0LgT8PGpvHn9dF43PD0" />
+
 <div style="display: flex; gap: 40px; flex-wrap: wrap;" markdown="1">
 
 <div style="flex: 0 0 220px;" markdown="1">
