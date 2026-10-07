@@ -2,4 +2,6 @@ title: Tamara Köhler
 description: PhD Researcher in Political Science, EUI
 theme: jekyll-theme-minimal
 
+   plugins:
+     - jekyll-sitemap
 
